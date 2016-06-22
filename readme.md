@@ -41,4 +41,4 @@ npm install
 
 Once the download has finished, you'll want to replace the [`PUSHER_KEY` value](https://github.com/realtime-eu-referendum-poll/client/blob/master/webpack.config.js#L35) inside [`webpack.config.js`](https://github.com/realtime-eu-referendum-poll/client/blob/master/webpack.config.js) with your own.
 
-With the server already running on port `3000`, run `npm run dev` to start the client in development mode. Once you've done that, you _should_ be able to view the app in your browser at `localhost:8080`.
+Make sure the server is *already* running on port `3000` and run `npm run dev` to start the client in development mode. Once you've done that, you _should_ be able to use the app in your browser at `http://localhost:8080`.
