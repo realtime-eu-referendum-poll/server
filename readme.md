@@ -13,7 +13,7 @@
 Download the server from GitHub and run `npm install`:
 
 ```
-https://github.com/realtime-eu-referendum-poll/server
+git clone https://github.com/realtime-eu-referendum-poll/server
 cd server
 npm install
 ```
@@ -40,7 +40,7 @@ The client lives in a separate repository, which you can find [here](https://git
 Just like with the server, the first step is to download the repository from GitHub and run `npm install`:
 
 ```
-https://github.com/realtime-eu-referendum-poll/client
+git clone https://github.com/realtime-eu-referendum-poll/client
 cd client
 npm install
 ```
